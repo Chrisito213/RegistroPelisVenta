@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RegistroPeliculas</string>
+
+    //inicio
+    <string name="usuario">Ingrese usuario</string>
+    <string name="contra">Ingrese contraseña</string>
+    <string name="iniciar">Iniciar Sesión</string>
+
+    //principal
+    <string name="aggRegistro">Nuevo Registro</string>
+    <string name="aggPeliculas">Agregar Peliculas</string>
+    <string name="verRegistro">Ver Registros</string>
+    <string name="peliculasStock">Peliculas en Stock</string>
+
+
+    //aggregistro
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="apellido">Ingrese Apellido</string>
+    <string name="direccion">Ingrese Direccion</string>
+    <string name="telefono">Ingrese Telefono</string>
+    <string name="peliculaVendida">Ingrese Pelicula</string>
+
+
+    //aggpelicula
+    <string name="codigo">Ingrese Codigo</string>
+    <string name="nombreP">Ingrese Pelicula</string>
+    <string name="genero">Ingrese Genero</string>
+    <string name="precio">Ingrese Precio</string>
+    <string name="numeroExistencia">Peliculas en Existencia</string>
+
+    //Opcional
+    <string name="salir">Salir</string>
+    <string name="volver">Volver</string>
+    <string name="guardar">Guardar Registro</string>
+
+
+</resources>
